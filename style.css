@@ -6,10 +6,13 @@
   font-weight: 100;
   font-style: normal;
 }
+body{
+  overflow-x: hidden !important;
+}
 .logo{
     width: 236px;
 }
-.padding-1{
+.margin-1{
   margin-left: 36px;
   margin-right: 36px;
 }
@@ -56,6 +59,43 @@ letter-spacing: -.0128em;
 }
 .nav-button-2:hover{
   background-color: #9F0029;
+}
+.page-heading{
+  font-weight: 600;
+  color: #E4003B;
+  font-size: 28.8px;
+}
+.page-paragraph{
+  font-size: 20px;
+  color: black;
+  font-weight: 300;
+}
+.container-width{
+  width: 912px;
+}
+.triage-heading{
+  font-size: 28.8px;
+  margin-top: 64px;
+  font-weight: 300;
+  color: black;
+}
+.margin-2{
+  margin-left: 36px;
+  margin-right: 36px;
+}
+.involed-buttons{
+  background-color:#f8f8f8;
+  color: black;
+  padding: 9.0128px 27px;
+  font-size: 18px;
+  border: none;
+  font-weight: 400;  
+}
+.involed-buttons:hover{
+  background-color: #E4003B;
+}
+.padding-1{
+  margin-bottom:36px
 }
 
 
