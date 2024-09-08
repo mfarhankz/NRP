@@ -97,5 +97,16 @@ letter-spacing: -.0128em;
 .padding-1{
   margin-bottom:36px
 }
+.padding-2{
+padding:32px
+}
+.card-text{
+  font-size: 1.125rem;
+  color: black;
+  font-weight: 400;
+}
+.margin-3{
+  margin-top: 147px;
+}
 
 
