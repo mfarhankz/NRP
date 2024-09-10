@@ -127,16 +127,34 @@ padding:32px
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 23.33%, rgba(0, 0, 1, 1.4) 100%);
 }
 .bg-img-3{
-  background-image: url(./assets/images/winnig-labor.png);
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.68) 33.33%, rgba(0, 0, 0, 0.12) 100%), url(./assets/images/winnig-labor.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 480px;
   margin-top:64px;
   margin-bottom: 64px;
+  
 
 }
 .call-out-section{
-  margin-top: auto;
-  
+  margin-top: auto; 
+  width: 8.25em;
+  font-size: 3.15rem;
+  font-weight: 400;
+  color: white;
 }
+.call-out-text{
+  width: 13.5em;
+  color: white;
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 1.2;
+}
+.btn-danger{
+  padding: 0.5633rem 1.125rem;
+  font-size: 1.125rem;
+  font-weight: 400;
+  background-color: #E4003B;
+}
+
 
