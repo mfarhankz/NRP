@@ -156,5 +156,30 @@ padding:32px
   font-weight: 400;
   background-color: #E4003B;
 }
-
+.footer-section{
+background-color: white;
+padding: 100px 162px 30px 162px; 
+}
+.footer-headings{
+font-size: 20px;
+font-weight: 600;
+color: #262626;
+}
+.margin-bottom{
+  margin-bottom: 14px;
+}
+.margin-bottom2{
+  margin-bottom: 8px;
+}
+hr{
+  color: #F1F1F3;
+}
+.copyright-text{
+  color: #656567;
+  font-size: 18px;
+}
+.paragraph{
+  color: #262626;
+  font-size: 18px;
+}
 
