@@ -183,6 +183,7 @@ body {
   font-weight: 400;
   background-color: #E4003B;
 }
+<<<<<<< HEAD
 
 .footer-section {
   background-color: white;
@@ -216,3 +217,32 @@ hr {
   color: #262626;
   font-size: 18px;
 }
+=======
+.footer-headings{
+  font-size: 1.6rem;
+  line-height: 1.25;
+  color: #666666;
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+.d-block{
+  font-size: 16px;
+  color: #666666;
+  text-decoration:none;
+  font-weight: 300;
+  padding-bottom: 17px;
+}
+.copyright-text{
+  font-size: 16px;
+  color: #666666;
+  font-weight: 300;
+}
+.form-control-1{
+  background-color: #E4003B; 
+  color: white;
+  border: none;
+  font-size: 1rem;
+  font-weight: 400;
+  
+}
+>>>>>>> c1045b8 (nav-bar in progress)
