@@ -10,7 +10,385 @@ body {
   overflow-x: hidden !important;
 }
 
-.logo {
+
+.nav-button {
+  
+  background: #E4003B;
+ 
+  color: white;
+  border: none;
+  
+
+}
+
+.nav-link {
+  
+  color: #707070;
+
+}
+
+.bg-img {
+  background-image: url(../images/change-begins.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+ 
+
+}
+
+.img-opacity {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 23.33%, rgba(0, 0, 1, 1.4) 100%);
+}
+
+.display-heading {
+  color: white;
+
+}
+
+.nav-button-2 {
+  background-color: #E4003B;
+  color: white;
+  border: none;
+
+}
+
+.nav-button-2:hover {
+  background-color: #9F0029;
+}
+
+.page-heading {
+  color: #E4003B;
+}
+
+.page-paragraph {
+  
+  color: black;
+  
+}
+
+
+.triage-heading {
+  color: black;
+}
+
+
+.involed-buttons {
+  background-color: #f8f8f8;
+  color: black;
+ 
+}
+
+.involed-buttons:hover {
+  background-color: #E4003B;
+}
+
+
+.card-text {
+  color: black;
+
+}
+
+
+.bg-img-2 {
+  background-image: url(../images/kier-starmer.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.img-opacity-2 {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 23.33%, rgba(0, 0, 1, 1.4) 100%);
+}
+
+.bg-img-3 {
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.68) 33.33%, rgba(0, 0, 0, 0.12) 100%), url(../images/winnig-labor.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+.call-out-section {
+  margin-top: auto;
+  color: white;
+}
+
+.call-out-text {
+
+  color: white;
+  
+}
+
+.btn-danger {
+
+  background-color: #E4003B;
+}
+
+.footer-headings{
+  color: #666666;
+  text-decoration: underline;
+}
+.d-block{
+  
+  color: #666666;
+  text-decoration:none;
+}
+.copyright-text{
+  
+  color: #666666;
+  
+}
+.form-control-1{
+  background-color: #E4003B; 
+  color: white;
+  border: none;
+}
+a:link{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+  
+}
+.icon-instagram{
+color: #d62976;
+}
+
+.Copyright{
+  
+  color: #666666;
+
+}
+.fa-brands:hover{
+  color: #E4003B
+}
+.fa-brands{
+  color: #666666;
+}
+
+/* responsive designs */
+
+@media only screen and (min-width: 250px) and (max-width: 453px) {
+  /* extra small screen */
+
+  .logo {
+  width: 175px;
+}
+
+.none{
+  display: none;
+}
+
+.nav-button {
+  padding: 4px 12px;
+  font-size: 14.4px;
+  font-weight: 300;
+
+}
+
+.nav-link {
+  font-size: 14.4px;
+  font-weight: 600;
+}
+
+.bg-img {
+  height: 380px;
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+
+.display-heading {
+  font-weight: 990;
+  font-size: 4rem;
+  margin-left: 0px !important;
+  
+  
+}
+
+.nav-button-2 {
+  font-size: 18px;
+  padding: 9.0128px 18px;
+  font-weight: 300;
+
+}
+
+.yt-width{
+  width: 100%;
+  height: 166px;
+
+}
+
+
+
+.page-heading {
+  font-weight: 600;
+  font-size: 23px;
+}
+
+.page-paragraph {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.container-width {
+  width: 912px;
+}
+
+.triage-heading {
+  font-size: 23px;
+  margin-top: 64px;
+  font-weight: 300;
+}
+
+.margin-2 {
+  margin-left: 0px;
+  margin-right:0px;
+}
+
+.involed-buttons {
+  padding: 9.0128px 21px;
+  font-size: 14px;
+  font-weight: 400;
+  border: none;
+}
+.size{
+  width: 246.81px;
+  height: 135.74px;
+
+
+}
+
+.padding-1 {
+  margin-bottom: 36px
+}
+
+.padding-2 {
+  padding: 22px
+}
+
+.card-text {
+
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 1.2;
+  
+}
+
+.card-title {
+  font-weight: 400;
+
+}
+
+.margin-3 {
+  margin-top: 50px;
+  font-weight: 300;
+}
+
+.bg-img-2 {
+  height: 320px;
+  margin-top: 64px;
+  background-position: center;
+}
+
+.bg-img-3 {
+  height: 296px;
+  background-position: center;
+  margin-top: 64px;
+  margin-bottom: 64px;
+
+
+}
+
+.call-out-section {
+  font-weight: 400;
+  
+}
+
+.call-out-text {
+  font-weight: 400;
+  
+}
+
+.btn-danger {
+  
+  font-weight: 400;
+  
+}
+
+.footer-headings{
+  
+  margin-bottom: 10px;
+  
+}
+.d-block{
+  
+  font-weight: 300;
+  padding-bottom: 17px;
+}
+.copyright-text{
+  font-size: 16px;
+
+  font-weight: 300;
+}
+.form-control-1{
+ 
+  font-weight: 400; 
+}
+
+
+
+
+.Copyright{
+  
+  font-weight: 400;
+  padding-left: 32px;
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  
+}
+
+
+@media only screen and (min-width: 375px) and (max-width: 768px) {
+  /* small screen  */
+
+
+
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+  /* medium screen */
+
+
+
+}
+
+@media only screen and (min-width: 993px) and (max-width: 1200px) {
+  /* large screen */
+
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 2000px) {
+  /* extra large screen */
+
+
+  .logo {
   width: 236px;
 }
 
@@ -21,64 +399,55 @@ body {
 
 .nav-button {
   padding: 4px 12px;
-  background: #E4003B;
+  
   font-size: 14.4px;
-  color: white;
-  border: none;
+  
+  
   font-weight: 300;
 
 }
 
 .nav-link {
   font-size: 14.4px;
-  color: #707070;
-  /* padding: 12px !important; */
+  
+  
   font-weight: 600;
 }
 
 .bg-img {
-  background-image: url(./assets/images/change-begins.png);
-  background-repeat: no-repeat;
-  background-size: cover;
+  
   height: 564px;
 
 }
 
-.img-opacity {
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 23.33%, rgba(0, 0, 1, 1.4) 100%);
-}
+
 
 .display-heading {
   font-weight: 990;
-  color: white;
+  
   font-size: 120px;
-  letter-spacing: -.0128em;
+  
 }
 
 .nav-button-2 {
   font-size: 18px;
-  background-color: #E4003B;
+  
   padding: 9px 18px;
   font-weight: 300;
-  color: white;
-  border: none;
-  letter-spacing: .02em;
+ 
 
 }
 
-.nav-button-2:hover {
-  background-color: #9F0029;
-}
+
 
 .page-heading {
   font-weight: 600;
-  color: #E4003B;
+  
   font-size: 28.8px;
 }
 
 .page-paragraph {
   font-size: 20px;
-  color: black;
   font-weight: 300;
 }
 
@@ -90,7 +459,7 @@ body {
   font-size: 28.8px;
   margin-top: 64px;
   font-weight: 300;
-  color: black;
+  
 }
 
 .margin-2 {
@@ -99,17 +468,14 @@ body {
 }
 
 .involed-buttons {
-  background-color: #f8f8f8;
-  color: black;
+  
   padding: 9.0128px 27px;
   font-size: 18px;
-  border: none;
+  
   font-weight: 400;
 }
 
-.involed-buttons:hover {
-  background-color: #E4003B;
-}
+
 
 .padding-1 {
   margin-bottom: 36px
@@ -121,9 +487,9 @@ body {
 
 .card-text {
   font-size: 1.07rem;
-  color: black;
+  
   font-weight: 400;
-  /* line-height: 1.2; */
+  
 }
 
 .card-title {
@@ -139,21 +505,14 @@ body {
 }
 
 .bg-img-2 {
-  background-image: url(./assets/images/kier-starmer.png);
-  background-repeat: no-repeat;
-  background-size: cover;
   height: 564px;
   margin-top: 64px;
 }
 
-.img-opacity-2 {
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 23.33%, rgba(0, 0, 1, 1.4) 100%);
-}
+
 
 .bg-img-3 {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.68) 33.33%, rgba(0, 0, 0, 0.12) 100%), url(./assets/images/winnig-labor.png);
-  background-repeat: no-repeat;
-  background-size: cover;
+ 
   height: 480px;
   margin-top: 64px;
   margin-bottom: 64px;
@@ -162,16 +521,14 @@ body {
 }
 
 .call-out-section {
-  margin-top: auto;
   width: 8.25em;
   font-size: 3.15rem;
   font-weight: 400;
-  color: white;
+  
 }
 
 .call-out-text {
   width: 13.5em;
-  color: white;
   font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.2;
@@ -181,73 +538,40 @@ body {
   padding: 0.5633rem 1.125rem;
   font-size: 1.125rem;
   font-weight: 400;
-  background-color: #E4003B;
-}
-<<<<<<< HEAD
-
-.footer-section {
-  background-color: white;
-  padding: 100px 162px 30px 162px;
+  
 }
 
-.footer-headings {
-  font-size: 20px;
-  font-weight: 600;
-  color: #262626;
-}
-
-.margin-bottom {
-  margin-bottom: 14px;
-}
-
-.margin-bottom2 {
-  margin-bottom: 8px;
-}
-
-hr {
-  color: #F1F1F3;
-}
-
-.copyright-text {
-  color: #656567;
-  font-size: 18px;
-}
-
-.paragraph {
-  color: #262626;
-  font-size: 18px;
-}
-=======
 .footer-headings{
   font-size: 1.6rem;
   line-height: 1.25;
-  color: #666666;
   margin-bottom: 10px;
-  text-decoration: underline;
+  
 }
 .d-block{
   font-size: 16px;
-  color: #666666;
-  text-decoration:none;
   font-weight: 300;
   padding-bottom: 17px;
 }
 .copyright-text{
   font-size: 16px;
-  color: #666666;
   font-weight: 300;
 }
 .form-control-1{
-  background-color: #E4003B; 
-  color: white;
-  border: none;
+  
   font-size: 1rem;
   font-weight: 400; 
 }
-a:link{
-  text-decoration: none;
+
+.footer-officials{
+  row-gap: 1.5rem;
 }
-a:hover{
-  text-decoration: underline;
+.Copyright{
+  font-size: 0.73125rem;
+  font-weight: 400;
+  padding-left: 32px;
+  
 }
->>>>>>> c1045b8 (nav-bar in progress)
+
+
+}
+
