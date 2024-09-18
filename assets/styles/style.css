@@ -171,7 +171,7 @@ color: #d62976;
 @media only screen and (min-width: 250px) and (max-width: 453px) {
   /* extra small screen */
 
-  .logo {
+.logo {
   width: 175px;
 }
 
@@ -197,22 +197,17 @@ color: #d62976;
   background-position: center;
 }
 
-
-
-
 .display-heading {
   font-weight: 990;
   font-size: 4rem;
   margin-left: 0px !important;
-  
-  
+
 }
 
 .nav-button-2 {
   font-size: 18px;
   padding: 9.0128px 18px;
   font-weight: 300;
-
 }
 
 .yt-width{
@@ -220,9 +215,6 @@ color: #d62976;
   height: 166px;
 
 }
-
-
-
 .page-heading {
   font-weight: 600;
   font-size: 23px;
@@ -257,8 +249,6 @@ color: #d62976;
 .size{
   width: 246.81px;
   height: 135.74px;
-
-
 }
 
 .padding-1 {
@@ -299,22 +289,31 @@ color: #d62976;
   margin-top: 64px;
   margin-bottom: 64px;
 
-
 }
+
 
 .call-out-section {
   font-weight: 400;
+  font-size: 29px;
   
 }
 
 .call-out-text {
   font-weight: 400;
+  font-size: 18px;
   
+}
+.dropdown-toggle{
+  font-size: 14px !important;
+  color: #666666 !important;
+
 }
 
 .btn-danger {
   
   font-weight: 400;
+  font-size: 18px !important;
+  padding: 9.0128px 18px;
   
 }
 
@@ -337,30 +336,27 @@ color: #d62976;
  
   font-weight: 400; 
 }
-
-
-
-
+.null-padding{
+  padding-left: 0px !important;
+}
 .Copyright{
   
   font-weight: 400;
   padding-left: 32px;
+  font-size: 11px;
   
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-  
+.footer-officials{
+  row-gap: 1.5rem;
+  gap: .333rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.toggle_button{
+  flex-direction: row !important;
+  width: 100% !important;
+}  
 }
 
 
@@ -369,14 +365,381 @@ color: #d62976;
 
 
 
+  .logo {
+  width: 140px;
+}
+
+.margin-1 {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.nav-button {
+  padding: 4px 12px;
+  font-size: 14.4px;
+  font-weight: 300;
+
+}
+
+.nav-link {
+  font-size: 14.4px;
+  font-weight: 600;
+}
+
+.bg-img {
+  height: 380px;
+  background-size: cover;
+  background-position: center;
+}
+
+.display-heading {
+  font-weight: 990;
+  font-size: 71px;
+  
+}
+
+.nav-button-2 {
+  font-size: 18px;
+  padding: 9px 18px;
+  font-weight: 300;
+ 
+
+}
+
+.page-heading {
+  font-weight: 600;
+  
+  font-size: 23px;
+}
+.yt-width{
+  width: 100%;
+  height: 198px;
+
+}
+
+.page-paragraph {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.container-width {
+  width: 912px;
+}
+
+.triage-heading {
+  font-size: 23px;
+  margin-top: 64px;
+  font-weight: 300;
+  
+}
+
+.margin-2 {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.involed-buttons {
+  
+  padding: 9.0128px 22px;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.padding-1 {
+  margin-bottom: 11px
+}
+
+.padding-2 {
+  padding: 24px
+}
+
+.card-text {
+  font-size: 18px;
+  font-weight: 400;
+  
+}
+
+.card-title {
+  font-size: 23px;
+  font-weight: 400;
+
+}
+
+.margin-3 {
+  margin-top: 38px;
+  font-size: 1.35rem;
+  font-weight: 300;
+}
+
+.bg-img-2 {
+  height: 375px;
+  margin-top: 29px;
+}
+.size{
+  width: 300px;
+  height: 165px;
+}
+
+.bg-img-3 {
+ 
+  height: 337px;
+  margin-top: 34px;
+  margin-bottom: 34px;
+
+
+}
+
+.call-out-section {
+  width: 8.25em;
+  font-size: 30px;
+  font-weight: 400;
+  
+}
+
+.call-out-text {
+  width: 13.5em;
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.btn-danger {
+  padding: 0.5633rem 1.125rem;
+  font-size: 1.125rem;
+  font-weight: 400;
+  
+}
+
+.footer-headings{
+  font-size: 1.6rem;
+  line-height: 1.25;
+  margin-bottom: 10px;
+  
+}
+.d-block{
+  font-size: 16px;
+  font-weight: 300;
+  padding-bottom: 17px;
+}
+.copyright-text{
+  font-size: 16px;
+  font-weight: 300;
+}
+.form-control-1{
+  
+  font-size: 1rem;
+  font-weight: 400; 
+}
+
+.footer-officials{
+  row-gap: 4px;
+}
+.Copyright{
+  font-size: 0.73125rem;
+  font-weight: 400;
+  padding-left: 32px;
+  
+}
 }
 
 @media only screen and (min-width: 769px) and (max-width: 992px) {
   /* medium screen */
+   .logo {
+  width: 190px;
 
+}
+
+.margin-1 {
+  margin-left: 36px;
+  margin-right: 36px;
+}
+
+
+.nav-button {
+  padding: 4px 12px;
+  
+  font-size: 14.4px;
+  
+  
+  font-weight: 300;
+
+}
+
+.nav-link {
+  font-size: 14.4px;
+  
+  
+  font-weight: 600;
+}
+
+.bg-img {
+  
+  height: 564px;
+  background-size: cover;
+  background-position: center;
+}
+.yt-width{
+  width: 100% !important;
+  height: 419px !important;
+  margin: 0px !important;
+
+}
+
+
+.display-heading {
+  font-weight: 990;
+  margin: 0px !important;
+  font-size: 104px;
+  
+  
+}
+
+.nav-button-2 {
+  font-size: 18px;
+  margin-top: 20px;
+  padding: 9px 18px;
+  font-weight: 300;
+}
+
+
+
+.page-heading {
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.page-paragraph{
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.container-width {
+  width: 912px;
+}
+
+.triage-heading {
+  font-size: 25px;
+  margin-top: 64px;
+  font-weight: 300;
+  
+}
+
+.margin-2 {
+  margin-left: 0px;
+  margin-right: 0px
+}
+
+.involed-buttons {
+  
+  padding: 9.0128px 24px;
+  font-size: 18px;
+  font-weight: 400;
+  border: none;
+}
+
+
+
+.padding-1 {
+  margin-bottom: 36px
+}
+
+.padding-2 {
+  padding: 28px
+}
+
+.card-text {
+  font-size: 1.125rem;
+  line-height: 23px;
+  
+  font-weight: 400;
+  
+}
+
+.card-title {
+  font-size: 25px;
+  font-weight: 400;
+
+}
+.size{
+  width: 332px;
+  height: 182px;
+}
+
+.margin-3 {
+  margin-top: 30px;
+  font-size: 1.35rem;
+  font-weight: 300;
+}
+
+.bg-img-2 {
+  height: 332px;
+  margin-top: 64px;
+}
+
+
+
+.bg-img-3 {
+ 
+  height: 480px;
+  margin-top: 64px;
+  margin-bottom: 64px;
 
 
 }
+
+.call-out-section {
+  width: 8.25em;
+  font-size: 3.15rem;
+  font-weight: 400;
+  
+}
+
+.call-out-text {
+  width: 13.5em;
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.btn-danger {
+  padding: 0.5633rem 1.125rem;
+  font-size: 1.125rem;
+  font-weight: 400;
+  
+}
+
+.footer-headings{
+  font-size: 1.6rem;
+  line-height: 1.25;
+  margin-bottom: 10px;
+  
+}
+.d-block{
+  font-size: 16px;
+  font-weight: 300;
+  padding-bottom: 17px;
+}
+.copyright-text{
+  font-size: 16px;
+  font-weight: 300;
+}
+.form-control-1{
+  
+  font-size: 1rem;
+  font-weight: 400; 
+}
+
+.footer-officials{
+  row-gap: 1.5rem;
+}
+.Copyright{
+  font-size: 0.73125rem;
+  font-weight: 400;
+  padding-left: 32px;
+  
+}
+}
+
 
 @media only screen and (min-width: 993px) and (max-width: 1200px) {
   /* large screen */
