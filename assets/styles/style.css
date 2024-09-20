@@ -126,7 +126,7 @@ body {
 
 .footer-headings{
   color: #666666;
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 .d-block{
   
@@ -174,72 +174,57 @@ color: #d62976;
 .logo {
   width: 175px;
 }
-
 .none{
   display: none;
 }
-
 .nav-button {
   padding: 4px 12px;
   font-size: 14.4px;
   font-weight: 300;
-
 }
-
 .nav-link {
   font-size: 14.4px;
   font-weight: 600;
 }
-
 .bg-img {
   height: 380px;
   background-size: cover;
   background-position: center;
 }
-
 .display-heading {
   font-weight: 990;
   font-size: 4rem;
   margin-left: 0px !important;
-
 }
-
 .nav-button-2 {
   font-size: 18px;
   padding: 9.0128px 18px;
   font-weight: 300;
 }
-
 .yt-width{
   width: 100%;
   height: 166px;
-
 }
 .page-heading {
   font-weight: 600;
   font-size: 23px;
 }
-
 .page-paragraph {
   font-size: 20px;
   font-weight: 300;
 }
-
 .container-width {
   width: 912px;
 }
-
 .triage-heading {
   font-size: 23px;
   margin-top: 64px;
   font-weight: 300;
 }
-
 .margin-2 {
   margin-left: 0px;
   margin-right:0px;
 }
-
 .involed-buttons {
   padding: 9.0128px 21px;
   font-size: 14px;
@@ -250,77 +235,54 @@ color: #d62976;
   width: 246.81px;
   height: 135.74px;
 }
-
 .padding-1 {
   margin-bottom: 36px
 }
-
 .padding-2 {
   padding: 22px
 }
-
 .card-text {
-
   font-weight: 300;
   font-size: 18px;
   line-height: 1.2;
-  
 }
-
 .card-title {
   font-weight: 400;
-
 }
-
 .margin-3 {
   margin-top: 50px;
   font-weight: 300;
 }
-
 .bg-img-2 {
   height: 320px;
   margin-top: 64px;
   background-position: center;
 }
-
 .bg-img-3 {
   height: 296px;
   background-position: center;
   margin-top: 64px;
   margin-bottom: 64px;
-
 }
-
-
 .call-out-section {
   font-weight: 400;
   font-size: 29px;
-  
 }
-
 .call-out-text {
   font-weight: 400;
   font-size: 18px;
-  
 }
 .dropdown-toggle{
   font-size: 14px !important;
   color: #666666 !important;
-
 }
-
 .btn-danger {
-  
   font-weight: 400;
   font-size: 18px !important;
   padding: 9.0128px 18px;
-  
 }
-
 .footer-headings{
-  
   margin-bottom: 10px;
-  
 }
 .d-block{
   
@@ -340,12 +302,9 @@ color: #d62976;
   padding-left: 0px !important;
 }
 .Copyright{
-  
   font-weight: 400;
   padding-left: 32px;
   font-size: 11px;
-  
-
 }
 .footer-officials{
   row-gap: 1.5rem;
@@ -366,109 +325,83 @@ color: #d62976;
   .logo {
   width: 140px;
 }
-
 .margin-1 {
   margin-left: 0px;
   margin-right: 0px;
 }
-
 .nav-button {
   padding: 4px 12px;
   font-size: 14.4px;
   font-weight: 300;
-
 }
-
 .nav-link {
   font-size: 14.4px;
   font-weight: 600;
 }
-
 .bg-img {
   height: 380px;
   background-size: cover;
   background-position: center;
 }
-
 .display-heading {
   font-weight: 990;
   font-size: 71px;
-  
 }
-
 .nav-button-2 {
   font-size: 18px;
   padding: 9px 18px;
   font-weight: 300;
- 
-
 }
-
 .page-heading {
   font-weight: 600;
-  
   font-size: 23px;
 }
 .yt-width{
   width: 100%;
   height: 198px;
-
 }
-
 .page-paragraph {
   font-size: 20px;
   font-weight: 300;
 }
-
 .container-width {
   width: 912px;
 }
-
 .triage-heading {
   font-size: 23px;
   margin-top: 64px;
   font-weight: 300;
-  
-}
 
+}
 .margin-2 {
   margin-left: 0px;
   margin-right: 0px;
 }
-
 .involed-buttons {
   
   padding: 9.0128px 22px;
   font-size: 14px;
   font-weight: 400;
 }
-
 .padding-1 {
   margin-bottom: 11px
 }
-
 .padding-2 {
   padding: 24px
 }
-
 .card-text {
   font-size: 18px;
   font-weight: 400;
-  
 }
-
 .card-title {
   font-size: 23px;
   font-weight: 400;
-
 }
-
 .margin-3 {
   margin-top: 38px;
   font-size: 1.35rem;
   font-weight: 300;
 }
-
 .bg-img-2 {
   height: 375px;
   margin-top: 29px;
@@ -477,37 +410,28 @@ color: #d62976;
   width: 300px;
   height: 165px;
 }
-
 .bg-img-3 {
  
   height: 337px;
   margin-top: 34px;
   margin-bottom: 34px;
-
-
 }
-
 .call-out-section {
   width: 8.25em;
   font-size: 30px;
   font-weight: 400;
-  
 }
-
 .call-out-text {
   width: 13.5em;
   font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.2;
 }
-
 .btn-danger {
   padding: 0.5633rem 1.125rem;
   font-size: 1.125rem;
   font-weight: 400;
-  
 }
-
 .footer-headings{
   font-size: 1.6rem;
   line-height: 1.25;
@@ -536,7 +460,6 @@ color: #d62976;
   font-size: 0.73125rem;
   font-weight: 400;
   padding-left: 32px;
-  
 }
 }
 
@@ -573,8 +496,6 @@ color: #d62976;
   font-weight: 900;
   margin: 0px !important;
   font-size: 100px;
-  
-  
 }
 .nav-button-2 {
   font-size: 18px;
@@ -679,6 +600,7 @@ color: #d62976;
 }
 .footer-officials{
   row-gap: 1.5rem;
+  margin-bottom: 20px !important;
 }
 .Copyright{
   font-size: 0.73125rem;
@@ -692,170 +614,142 @@ color: #d62976;
   padding-left: 0px !important;
   margin-right: 16px;
 }
+.call-out-button{
+  display: flex;
+  justify-content: end;
+  width: 33%;
+  align-items: end;
 }
 
-
+}
 @media only screen and (min-width: 993px) and (max-width: 1200px) {
   /* large screen */
 
-    .logo {
+ .logo {
   width: 263px;
 }
-
 .margin-1 {
   margin-left: 0px;
   margin-right: 0px;
 }
-
 .nav-button {
-  padding: 4px 12px;
-  
+  padding: 4px 12px;  
   font-size: 14.4px;
-  
-  
   font-weight: 300;
-
 }
-
 .nav-link {
   font-size: 14.4px;
-  
-  
   font-weight: 600;
+  padding: 10px 0px;
 }
-
+.yt-width{
+  width: 100% !important;
+  height: 500px !important;
+  margin: 0px !important;
+}
 .bg-img {
-  
   height: 564px;
-
+  background-size: cover;
+  background-position: center;
 }
-
-
-
 .display-heading {
-  font-weight: 990;
-  
-  font-size: 120px;
-  
-}
+  font-weight: 900;
+  font-size: 110px;
+  margin-left: 0px !important;
 
+}
 .nav-button-2 {
   font-size: 18px;
-  
   padding: 9px 18px;
   font-weight: 300;
- 
-
 }
-
-
-
 .page-heading {
   font-weight: 600;
-  
-  font-size: 28.8px;
+  font-size: 26px;
 }
-
 .page-paragraph {
   font-size: 20px;
   font-weight: 300;
 }
-
 .container-width {
   width: 912px;
 }
-
 .triage-heading {
-  font-size: 28.8px;
+  font-size: 26px;
   margin-top: 64px;
   font-weight: 300;
-  
 }
-
 .margin-2 {
-  margin-left: 36px;
-  margin-right: 36px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
-
 .involed-buttons {
-  
   padding: 9.0128px 27px;
   font-size: 18px;
-  
   font-weight: 400;
+  border: none;
 }
-
-
-
 .padding-1 {
-  margin-bottom: 36px
+  margin-bottom: 31px
 }
-
 .padding-2 {
-  padding: 32px
+  padding: 28px
 }
-
 .card-text {
   font-size: 1.07rem;
-  
   font-weight: 400;
-  
+  line-height: 1.2;
 }
-
 .card-title {
-  font-size: 1.8rem;
+  font-size: 25px;
   font-weight: 400;
-
 }
-
+.size{
+  width: 458px;
+  height: 251px;
+}
 .margin-3 {
-  margin-top: 100px;
+  margin-top: 45px;
   font-size: 1.35rem;
   font-weight: 300;
 }
-
 .bg-img-2 {
   height: 564px;
   margin-top: 64px;
+  background-size: cover;
+  background-position: center;
 }
-
-
-
-.bg-img-3 {
- 
-  height: 480px;
-  margin-top: 64px;
-  margin-bottom: 64px;
-
-
-}
-
-.call-out-section {
-  width: 8.25em;
-  font-size: 3.15rem;
-  font-weight: 400;
+.nav-button-3{
+  display: flex;
+  justify-content: end;
   
 }
-
+.bg-img-3 {
+  height: 360px;
+  margin-top: 52px;
+  margin-bottom: 52px;
+  padding: 28px !important;
+}
+.call-out-section {
+  width: 8.25em;
+  font-size: 43px;
+  font-weight: 400; 
+}
 .call-out-text {
-  width: 13.5em;
+  width: 11.5em;
   font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.2;
 }
-
 .btn-danger {
   padding: 0.5633rem 1.125rem;
   font-size: 1.125rem;
   font-weight: 400;
-  
 }
-
 .footer-headings{
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   line-height: 1.25;
   margin-bottom: 10px;
-  
 }
 .d-block{
   font-size: 16px;
@@ -867,187 +761,161 @@ color: #d62976;
   font-weight: 300;
 }
 .form-control-1{
-  
   font-size: 1rem;
   font-weight: 400; 
 }
-
 .footer-officials{
   row-gap: 1.5rem;
+  margin-bottom: 20px !important;
 }
 .Copyright{
   font-size: 0.73125rem;
   font-weight: 400;
   padding-left: 32px;
-  
 }
-
-
+.call-out-button{
+  display: flex;
+  justify-content: end;
+  width: 33%;
+  align-items: end;
 }
-
+.null-padding{
+  padding-left: 0px !important;
+  margin-right: 16px !important;
+}
+.null-margin{
+  margin: 0px !important;
+}
+}
 
 @media only screen and (min-width: 1201px) and (max-width: 2000px) {
   /* extra large screen */
 
-
   .logo {
-  width: 236px;
+  width: 263px;
 }
-
 .margin-1 {
-  margin-left: 36px;
-  margin-right: 36px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
-
 .nav-button {
-  padding: 4px 12px;
-  
+  padding: 4px 12px;  
   font-size: 14.4px;
-  
-  
   font-weight: 300;
-
 }
-
 .nav-link {
   font-size: 14.4px;
-  
-  
   font-weight: 600;
+  padding: 10px 0px;
 }
-
+.yt-width{
+  width: 100% !important;
+  height: 500px !important;
+  margin: 0px !important;
+}
 .bg-img {
-  
   height: 564px;
-
+  background-size: cover;
+  background-position: center;
 }
-
-
-
 .display-heading {
-  font-weight: 990;
-  
-  font-size: 120px;
-  
-}
+  font-weight: 900;
+  font-size: 110px;
+  margin-left: 0px !important;
 
+}
 .nav-button-2 {
   font-size: 18px;
-  
   padding: 9px 18px;
   font-weight: 300;
- 
-
 }
-
-
-
 .page-heading {
   font-weight: 600;
-  
-  font-size: 28.8px;
+  font-size: 26px;
 }
-
 .page-paragraph {
   font-size: 20px;
   font-weight: 300;
 }
-
 .container-width {
   width: 912px;
 }
-
 .triage-heading {
-  font-size: 28.8px;
+  font-size: 26px;
   margin-top: 64px;
   font-weight: 300;
-  
 }
-
 .margin-2 {
   margin-left: 36px;
   margin-right: 36px;
 }
-
 .involed-buttons {
-  
   padding: 9.0128px 27px;
   font-size: 18px;
-  
   font-weight: 400;
+  border: none;
 }
-
-
-
 .padding-1 {
-  margin-bottom: 36px
+  margin-bottom: 31px
 }
-
 .padding-2 {
-  padding: 32px
+  padding: 28px
 }
-
 .card-text {
   font-size: 1.07rem;
-  
   font-weight: 400;
-  
+  line-height: 1.2;
 }
-
 .card-title {
-  font-size: 1.8rem;
+  font-size: 25px;
   font-weight: 400;
-
 }
-
+.size{
+  width: 627px;
+  height: 344px;
+}
 .margin-3 {
-  margin-top: 100px;
+  margin-top: 150px;
   font-size: 1.35rem;
   font-weight: 300;
 }
-
 .bg-img-2 {
   height: 564px;
   margin-top: 64px;
+  background-size: cover;
+  background-position: center;
 }
-
-
-
-.bg-img-3 {
- 
-  height: 480px;
-  margin-top: 64px;
-  margin-bottom: 64px;
-
-
-}
-
-.call-out-section {
-  width: 8.25em;
-  font-size: 3.15rem;
-  font-weight: 400;
+.nav-button-3{
+  display: flex;
+  justify-content: end;
   
 }
-
+.bg-img-3 {
+  height: 360px;
+  margin-top: 52px;
+  margin-bottom: 52px;
+  padding: 28px !important;
+}
+.call-out-section {
+  width: 8.25em;
+  font-size: 43px;
+  font-weight: 400; 
+}
 .call-out-text {
-  width: 13.5em;
+  width: 11.5em;
   font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.2;
 }
-
 .btn-danger {
   padding: 0.5633rem 1.125rem;
   font-size: 1.125rem;
   font-weight: 400;
-  
 }
-
 .footer-headings{
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   line-height: 1.25;
   margin-bottom: 10px;
-  
 }
 .d-block{
   font-size: 16px;
@@ -1059,21 +927,32 @@ color: #d62976;
   font-weight: 300;
 }
 .form-control-1{
-  
   font-size: 1rem;
   font-weight: 400; 
 }
-
 .footer-officials{
   row-gap: 1.5rem;
+  margin-bottom: 20px !important;
 }
 .Copyright{
   font-size: 0.73125rem;
   font-weight: 400;
   padding-left: 32px;
-  
+}
+.call-out-button{
+  display: flex;
+  justify-content: end;
+  width: 33%;
+  align-items: end;
+}
+.null-padding{
+  padding-left: 0px !important;
+  margin-right: 16px !important;
+}
+.null-margin{
+  margin: 0px !important;
+}
 }
 
 
-}
 
