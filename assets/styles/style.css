@@ -14,7 +14,7 @@ body {
   border: none;
 }
 .nav-link {
-  color: #707070;
+  color: #707070 !important;
 }
 .bg-img {
   background-image: url(../images/change-begins.png);
@@ -755,6 +755,17 @@ body {
 .null-margin{
   margin: 0px !important;
 }
+.navbar-nav{
+  display: flex;
+  flex-direction: row;
+}
+.nav-item{
+  margin-right: 45px;
+}
+.m_large{
+  margin-left: 16px;
+}
+
 }
 
 @media only screen and (min-width: 1201px) and (max-width: 2000px) {
@@ -926,6 +937,16 @@ body {
 }
 .null-margin{
   margin: 0px !important;
+}
+.navbar-nav{
+  display: flex;
+  flex-direction: row;
+}
+.nav-item{
+  margin-right: 45px;
+}
+.m_large{
+  margin-left: 16px;
 }
 }
 @media only screen and (min-width: 428px) and (max-width: 926px){
