@@ -429,8 +429,8 @@ justify-content: space-between;
   width: 190px;
 }
 .margin-1 {
-  margin-left: 36px;
-  margin-right: 36px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 .nav-button {
   padding: 4px 12px;
@@ -595,8 +595,8 @@ body {
   overflow-x: hidden !important;
 }
 .margin-1 {
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: 16px;
+  margin-right: 16px;
 }
 .p_large{
   padding: 0px 25px 0px 25px;
@@ -946,7 +946,7 @@ body {
   margin-right: 45px;
 }
 .m_large{
-  margin-left: 16px;
+  margin-left: 38px;
 }
 }
 @media only screen and (min-width: 428px) and (max-width: 926px){
