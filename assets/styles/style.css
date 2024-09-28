@@ -124,7 +124,9 @@ color: #d62976;
 .legal-link:hover{
   text-decoration: underline;
   color: #666666;
-
+}
+.dropdown-toggle{
+  text-decoration: none !important;
 }
 
 /* responsive designs */
